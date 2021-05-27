@@ -2,7 +2,37 @@
 
 
 
-### This is project page for the project - Customer Segmentation
+## This is project page for the project - Customer Segmentation
+
+
+### Project Timeline
+
+### Milestones
+
+**Milestone 1  - 7 days**
+
+•	Data understanding and initial observations
+•	Data preparation which involves cleaning, encoding, imputation etc
+•	Exploratory Data Analysis 
+•	Statistical approach to understand the data feature relations and properties
+•	Check to perform if dimensionality reduction is necessary
+
+
+
+**Milestone 2 – 7 Days**
+
+
+•	Identification of ideal clustering algorithm for the problem statement and dataset
+•	Application of optimization techniques to identify the best parameters for the cluster formation
+•	Implementation of clustering algorithm to segment the data
+•	Validating the cluster formation
+•	Aligning with real data to create cluster customer map
+•	Visualization of clusters 
+•	Providing observation based on the outcome
+
+
+
+
 
 
 ---
