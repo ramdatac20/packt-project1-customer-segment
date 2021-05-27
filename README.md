@@ -10,9 +10,13 @@
 
 
 CUST_ID: Credit card holder ID
+
 BALANCE: Monthly average balance (based on daily balance averages)
+
 BALANCE_FREQUENCY: Ratio of last 12 months with balance
+
 PURCHASES: Total purchase amount spent during last 12 months
+
 ONEOFF_PURCHASES: Total amount of one-off purchases
 INSTALLMENTS_PURCHASES: Total amount of installment purchases
 CASH_ADVANCE: Total cash-advance amount
